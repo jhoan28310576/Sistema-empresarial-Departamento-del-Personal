@@ -122,6 +122,9 @@ Seguro: Validación de datos en backend y frontend
 db PostgreSQL
 ![dbdeparralekto](https://github.com/user-attachments/assets/5c165183-2004-41da-8125-0226b8e1294f)
 
+code
+
+![Screenshot_1](https://github.com/user-attachments/assets/67ab8d43-4c28-47f5-bdf2-896745ef1097)
 
 
 
