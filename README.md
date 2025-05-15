@@ -120,8 +120,7 @@ Responsive: Compatible con móviles y tablets
 Seguro: Validación de datos en backend y frontend
 
 db PostgreSQL
-![dbdeparralekto](https://github.com/user-attachments/assets/eeb262cd-cc67-412b-9b6a-c52617e840a7)
-
+![dbdeparralekto](https://github.com/user-attachments/assets/5c165183-2004-41da-8125-0226b8e1294f)
 
 
 
